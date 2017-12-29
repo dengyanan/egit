@@ -10,6 +10,7 @@ public class egit {
 		System.out.println("邓");
 		System.out.println("亚");
 		System.out.println("楠");
+		System.out.println("楠");
 	}
 
 }
